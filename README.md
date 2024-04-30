@@ -69,3 +69,10 @@ The insights gained from this analysis can be used to improve the bike sharing s
 ## Conclusion
 
 This project demonstrates the application of community detection algorithms to analyze and understand the structure of a bike sharing network. The results provide valuable insights that can be leveraged to enhance the efficiency and effectiveness of the bike sharing system.
+
+##Contributers 
+
+Avinash Kumar B22ME014
+Chintan Limbachiya B22ME036
+Sumit B22CH037
+Shashwat Meena B22BB037
